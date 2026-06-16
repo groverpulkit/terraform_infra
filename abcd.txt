@@ -5,3 +5,6 @@ Welcome to DevOPs Insiders
 
 
 Hello World
+
+Azure DevOPs
+GitHub Actions
